@@ -1,0 +1,171 @@
+body{
+  background-image: url("../images/cookies.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: top;
+  /* margin: auto; */
+}
+h1{
+  text-align: center;
+  color: #fff;
+  font-size: 3.5rem;
+  padding: 4% 10%;
+}
+h2{
+  text-align: center;
+  color: #fff;
+  padding: 2% 2%;
+}
+h3{
+  text-align: center;
+  color: #fff;
+  border: 2px solid white;
+  background-color: #000;
+  height: 30px;
+  width: 110px;
+  margin: 50px 600px;
+  font-size: 1rem;
+}
+/* middle container */
+.middle-container{
+   padding:10% 2% 2% 0;
+}
+/* images */
+.image{
+  float: left;
+  margin: 3%;
+  padding: 20% 5% 10% 1%;
+}
+.image img{
+  width: 280px;
+  height: 380px;
+
+}
+.img{
+  position: absolute;
+  padding: 10% 5% 10% 1%;
+}
+/* content */
+.content{
+  float: right;
+  width: 35%;
+  padding: 22% 3% 1% 1%;
+}
+.content h2{
+  color: #000000;
+}
+.content p{
+  font-size: 1.5rem;
+}
+/* button */
+.middle-container button{
+  margin:5% 18%;
+  width: 10%;
+  float: right;
+  font-style:Bold;
+}
+.btn {
+  background: #151617;
+  background-image: -webkit-linear-gradient(top, #151617, #1b1b1c);
+  background-image: -moz-linear-gradient(top, #151617, #1b1b1c);
+  background-image: -ms-linear-gradient(top, #151617, #1b1b1c);
+  background-image: -o-linear-gradient(top, #151617, #1b1b1c);
+  background-image: linear-gradient(to bottom, #151617, #1b1b1c);
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 9px 9px 10px 11px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #b9c2c7;
+  background-image: -webkit-linear-gradient(top, #b9c2c7, #818385);
+  background-image: -moz-linear-gradient(top, #b9c2c7, #818385);
+  background-image: -ms-linear-gradient(top, #b9c2c7, #818385);
+  background-image: -o-linear-gradient(top, #b9c2c7, #818385);
+  background-image: linear-gradient(to bottom, #b9c2c7, #818385);
+  text-decoration: none;
+}
+/* second-container */
+.second-container{
+  position:relative;
+   margin: 65% 0% 0% 0%;
+   padding:1% 0% 0% 0%;
+   background-color: brown;
+}
+.second-container h2{
+  color: #fff;
+  background-color: black;
+  margin: 1px 510px 0 510px;
+}
+.second-container p{
+  margin: 0% 0 0% 36%;
+  width: 30%;
+  color: #000;
+  line-height: 3rem;
+  text-align: center;
+  font-weight:100;
+}
+/* figure */
+figure {
+    display: inline-block;
+    margin:2% 0% 2% 12%;
+}
+.meet{
+  width: 236px;
+  height: 340px;
+}
+/* figcaption */
+figcaption {
+    margin: 10px 87px 0 100px;
+    font-variant: small-caps;
+    font-family: Arial;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+.rest{
+  float: left;
+  margin: 6% 0;
+  height: 600px;
+  width: 50%;
+}
+.see{
+  color: #000;
+  float: right;
+  margin: 80px 20% 40px 0px;
+}
+.phone{
+  color: #000;
+  float: right;
+  margin: 1% 20% 0px 0px;
+}
+.number{
+  color: #000;
+  float: right;
+  margin: 0% 23% 0px 0%;
+}
+.email{
+  color: #000;
+  float: right;
+  margin: 0% 20% 0px 0%;
+}
+.id{
+  color: #000;
+  float: right;
+  margin: 0% 21% 0px 0%;
+}
+.restaurant{
+  color: #000;
+  float: right;
+  margin: 0% 20% 0px 0%;
+}
+.address{
+  color: #000;
+  float: right;
+  margin: 0% 15% 0px 0%;
+}
